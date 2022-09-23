@@ -1,2 +1,2 @@
 # bash_notes
-Notes on bash scripting
+Notes on ksh scripting and Linux commands
